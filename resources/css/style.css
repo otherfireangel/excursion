@@ -26,6 +26,10 @@ h3 {
   text-align: center;
 }
 
+h3.copy {
+  text-align: right;
+}
+
 a {
   font-family: Verdana;
   font-weight: normal;
@@ -35,14 +39,6 @@ a {
   text-decoration: underline;
 }
 
-p {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 21px;
-  color: gray;
-  text-align: right;
-}
-
 video, img {
-  content-align: center;
+  align-content: center;
 }
