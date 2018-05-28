@@ -1,46 +1,30 @@
 body {
   background-color: black;
-}
-
-h1, h2, h3, a {
   font-family: Verdana;
   text-align: center;
-}
-
-h1, h2 {
   color: white;
 }
 
-h1, h3, a {
-  font-weight: normal;
-}
-
 h1 {
+  font-weight: normal;
   font-size: 50px;
 }
 
 h2 {
-  font-weight: 300;
   font-size: 42px;
 }
 
 h3 {
+  font-weight: normal;
   font-size: 21px;
   color: gray;
 }
 
-.copy h3{
+.copy {
   text-align: right;
 }
 
 a {
   font-size: 16px;
   color: Aquamarine;
-  text-decoration: underline;
-}
-
-video, img {
-  align-content: center;
-  text-align: center;
-  align-items: center;
 }
